@@ -1,0 +1,91 @@
+---
+site_name: Vastier's GardenHome
+site_description: My personal digital garden
+site_author: Vastier
+site_url: https://gardenhome.netlify.app/
+nav:
+  - Intro: index.md
+  - About this page: digital_garden.md
+  - 'Vastier Visions':
+    - Textos: odds/vastier_visions/textindex.md
+
+
+plugins:
+  - search
+  - autolinks
+  - git-revision-date-localized:
+      type: timeago
+  - minify:
+      minify_html: true
+  - section-index
+#   - mkdocs-newsletter
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - meta
+  - def_list
+  - toc:
+      permalink: ⚑
+      baselevel: 2
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: '!!python/name:pymdownx.emoji.to_svg'
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+theme:
+  name: material
+  custom_dir: theme
+  logo: img/favicons/favicon-32x32.png
+  favicon: img/favicons/favicon-32x32.png
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.code.annotate
+
+  palette:
+    # Light mode
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: blue grey
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: blue grey
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/links.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Vastier
+    - icon: fontawesome/solid/rss
+      link: https://gardenhome.netlify.app/newsletter/0_newsletter_index/
+
+repo_name: Vastier/GardenHome
+repo_url: https://github.com/Vastier/GardenHome
