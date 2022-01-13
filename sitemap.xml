@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://gardenhome.netlify.app/links/</loc>
+         <lastmod>2022-01-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://gardenhome.netlify.app/things_to_do/</loc>
          <lastmod>2022-01-13</lastmod>
          <changefreq>daily</changefreq>
