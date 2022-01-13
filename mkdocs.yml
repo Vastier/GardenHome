@@ -19,6 +19,10 @@ plugins:
       minify_html: true
   - section-index
 #   - mkdocs-newsletter
+  - i18n:
+      default_language: pt
+      languages:
+        en: en
 
 markdown_extensions:
   - abbr
@@ -53,7 +57,7 @@ theme:
   logo: img/favicons/favicon-32x32.png
   favicon: img/favicons/favicon-32x32.png
   features:
-    - navigation.instant
+    # - navigation.instant <- Imcompatível com o mkdocs-static-i18n
     - navigation.top
     - content.code.annotate
 
