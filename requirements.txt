@@ -93,6 +93,7 @@ mkdocs==1.2.3
     #   mkdocs-minify-plugin
     #   mkdocs-newsletter
     #   mkdocs-section-index
+    #   mkdocs-static-i18n
 mkdocs-autolinks-plugin @ git+git://github.com/lyz-code/mkdocs-autolinks-plugin.git
     # via
     #   -r requirements.in
@@ -111,6 +112,8 @@ mkdocs-section-index==0.3.3
     # via
     #   -r requirements.in
     #   mkdocs-newsletter
+mkdocs-static-i18n==0.31
+    # via -r requirements.in
 ordered-set==4.0.2
     # via deepdiff
 packaging==21.3
