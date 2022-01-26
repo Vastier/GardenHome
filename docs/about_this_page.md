@@ -19,6 +19,9 @@ Foi usado como base o MKDocs:
 
 [MKDocs](https://www.mkdocs.org/)
 
+Para a localização das páginas em PT/EN usei o plugin:
+[MKDocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
+
 Usei o favicon.io para criar o Favicon:
 
 [favicon.io](https://favicon.io/)

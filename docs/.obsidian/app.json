@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "livePreview": true
+}
