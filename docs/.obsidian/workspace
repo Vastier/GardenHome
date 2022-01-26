@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b36c0ddfc31fd9c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "052eca9d15397578",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DataAnalytics/Interacting with RiotAPI.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c40b8f72717fa146",
+    "type": "split",
+    "children": [
+      {
+        "id": "71f374242f1a4f33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be20c330c0f1bdbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b2504ade41313c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7853e9a203f34cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1a4278fe98a714d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a097cc09f1be414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DataAnalytics/Interacting with RiotAPI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "052eca9d15397578",
+  "lastOpenFiles": [
+    "DataAnalytics/Interacting with RiotAPI.md",
+    "index.md",
+    "index.en.md",
+    "things_to_do.md",
+    "links.md"
+  ]
+}
