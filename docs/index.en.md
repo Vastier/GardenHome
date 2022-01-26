@@ -7,8 +7,8 @@ Yo!
 
 My name is Iago:Viana, A.K.A. Vastier.
 
-Here's my Digital Garden, CopperMind, Repository of Knowledge and
-Public Learning place, I'll talk more about those names in the future.
+Here's my Digital Garden / CopperMind / Repository of Knowledge /
+Public Learning place. I'll talk more about those names in the future.
 
 I have several hobbies, some of them are 3D Printing, Music, Electronics,
 WebDev, Crochet, Origami, RPG, [Writing](textindex.md), Programming,
