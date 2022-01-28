@@ -19,7 +19,7 @@ e otras cositas más que uma hora adiciono aqui qualquer hora dessas.
 Sou fluente em inglês e uso tanto quanto português-brasil, então algumas páginas
 podem estar em inglês, tentarei manter o mais bilíngue o possível. (por enquanto.)
 
-Caso queira saber mais [sobre essa página da web.](digital_garden.md)
+Caso queira saber mais [sobre essa página da web.](about_this_page.md)
 
 [:
 

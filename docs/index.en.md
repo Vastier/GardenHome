@@ -18,7 +18,7 @@ and some other stuff that sometime i'll add here.
 I'm Brazilian and Brazilian Portuguese is my native language, some pages may
 only exist in Portuguese, but i'll try to keep it mostly bilingual. (for now.)
 
-In case you want to [know more about this web page.](digital_garden.md)
+In case you want to [know more about this web page.](about_this_page.md)
 
 [:
 

@@ -5,11 +5,11 @@ site_author: Vastier
 site_url: https://gardenhome.netlify.app/
 nav:
   - Intro: index.md
-  - About this page: digital_garden.md
+  - About this page: about_this_page.md
   - 'Vastier Visions':
     - Textos: odds/vastier_visions/textindex.md
   - 'Data Analytics':
-    - RiotAPI: DataAnalytics/Interacting with RiotAPI.md
+    - RiotAPI: DataAnalytics/Interacting_with_RiotAPI.md
 
 
 plugins:
@@ -19,12 +19,12 @@ plugins:
       type: timeago
   - minify:
       minify_html: true
-  - section-index
-#   - mkdocs-newsletter
   - i18n:
       default_language: pt
       languages:
         en: en
+  - section-index
+#   - mkdocs-newsletter
 
 markdown_extensions:
   - abbr
