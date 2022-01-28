@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gardenhome.netlify.app/</loc>
-         <lastmod>2022-01-13</lastmod>
+         <lastmod>2022-01-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gardenhome.netlify.app/digital_garden/</loc>
-         <lastmod>2022-01-13</lastmod>
+         <loc>https://gardenhome.netlify.app/about_this_page/</loc>
+         <lastmod>2022-01-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gardenhome.netlify.app/links/</loc>
-         <lastmod>2022-01-13</lastmod>
+         <lastmod>2022-01-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gardenhome.netlify.app/things_to_do/</loc>
-         <lastmod>2022-01-13</lastmod>
+         <lastmod>2022-01-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gardenhome.netlify.app/DataAnalytics/Interacting%20with%20RiotAPI/</loc>
+         <lastmod>2022-01-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gardenhome.netlify.app/odds/vastier_visions/textindex/</loc>
-         <lastmod>2022-01-13</lastmod>
+         <lastmod>2022-01-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gardenhome.netlify.app/odds/vastier_visions/textos/plavaras/</loc>
-         <lastmod>2022-01-13</lastmod>
+         <lastmod>2022-01-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
