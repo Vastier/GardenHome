@@ -4,15 +4,20 @@ author: Vastier
 ---
 
 
+
+
 Notes:
 	Decide which data to get, TMI!
 
 
+Dados de uma partida normal:
+
+https://pastebin.com/F6v6a9cu
 
 
+Timeline da partida (reduzida):
 
-
-
+https://pastebin.com/grLu5dd2
 
 
 
