@@ -8,6 +8,8 @@ nav:
   - About this page: digital_garden.md
   - 'Vastier Visions':
     - Textos: odds/vastier_visions/textindex.md
+  - 'Data Analytics':
+    - RiotAPI: DataAnalytics/Interacting with RiotAPI.md
 
 
 plugins:
